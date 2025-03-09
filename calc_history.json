@@ -1,0 +1,8 @@
+[
+  {
+    "timestamp": "2025-03-09 12:51:32",
+    "operation": "Subtraction",
+    "inputs": "4.0 - 5.0",
+    "result": -1.0
+  }
+]
